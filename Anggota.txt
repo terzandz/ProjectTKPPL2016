@@ -1,0 +1,11 @@
+Nama : Peter Andrea
+Nim : 14.111.2001
+Kelas : TI-A Sore
+
+Nama : Vincent Ongario
+Nim : 14.000.0809
+Kelas : TI-A Sore
+
+Nama : Willius Hasyim
+Nim : 14.111.4339
+Kelas : TI-A Sore
