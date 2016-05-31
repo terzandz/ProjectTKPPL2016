@@ -1,0 +1,47 @@
+table{
+border: 3px black solid;
+border-collapse: collapse;
+
+font-family: georgia;
+color: #4b886b;
+}
+
+th{
+border: 2px white solid;
+font-size: 14;
+
+background: #c6400c;
+color: white;
+
+text-transform: uppercase;
+padding: 5px;
+}
+
+td{
+border: 2px black solid;
+padding: 15px 5px;
+}
+
+caption{
+font-size: 30;
+color: darkorange;
+margin: 15px;
+}
+
+.tombol{
+background: #e8c994;
+}
+
+.menu{
+text-align: center;
+color: teal;
+text-shadow : 10px 5px 12px green;
+}
+
+.ganjil{
+background: #fefdd8;
+}
+
+.genap{
+background: #fbebc0;
+}
